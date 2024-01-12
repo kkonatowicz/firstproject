@@ -14,4 +14,8 @@ Then first results include "Prowly Media Monitoring" websites links
 And second related results include two words from "Prowly Media Monitoring" is websites links
 And another related results include only one word from "Prowly Media Monitoring" is  website links
 And number of results greater than zero
+AND 
+AND dsdsds
+Asasasas
+
 
